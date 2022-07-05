@@ -24,7 +24,8 @@ When you have installed all necessary packages, you can run the app using
 
 ## Demo of the proposed solution.
 
-![](https://github.com/antaradas94/perfect_match_recommender/blob/main/demo.gif)
+https://user-images.githubusercontent.com/29475679/177369699-5529dccb-a844-4da8-ac08-d4689ac4b027.mp4
+
 
 ## Team Perfect Match
 [Alona](https://github.com/Alona-B) <br />
