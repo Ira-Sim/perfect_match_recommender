@@ -1,0 +1,4 @@
+slurm*
+__pycache__/*
+word_cloud/
+venv/

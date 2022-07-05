@@ -1,0 +1,11 @@
+torchtext==0.10.0
+transformers
+matplotlib
+sklearn
+pandas
+bs4
+streamlit
+lxml
+openpyxl
+nltk
+seaborn
