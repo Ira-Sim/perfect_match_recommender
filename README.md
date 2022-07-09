@@ -3,7 +3,7 @@
 
 ## [The Challenge](https://www.hackbay.de/)
 ### The proposed solution
-We created a recommender system for websites based on their targeted socio demographichs users using deep learning.
+We created a recommender system for websites based on their targeted socio demographics using deep learning.
 This method bypasses the use of cookies to understand the specific target user group of website. Based on this information, it recommends various modifications or improvements for the website. For example, the number of images, color schemes to use for the website, keywwords to include etc.
 
 
