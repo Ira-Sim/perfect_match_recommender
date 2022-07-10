@@ -1,5 +1,5 @@
 
-## GfK Challenge at HackBay, first place, Team Perfect Match 
+## GfK Challenge Hackathon | HackBay, first place, Team Perfect Match 
 
 ## [The Challenge](https://www.hackbay.de/)
 ### The proposed solution
